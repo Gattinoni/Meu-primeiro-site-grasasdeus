@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+html {background-color: lightgray;}
+
+body{
+    background-color:white;
+    font-size-adjust:100%;
+}
+header, nav, article, aside, footer{
+    margin:10px;
+    background-color:lightblue;
+}
+
+p{
+	font-family:Arial, Helvetica,sans-serif;
+ 	font-size: 1.1em;
+	text-align: justify;
+	padding:10px;
+}
+
+ul,li,a{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+        
+}
+
+header {
+    padding: 20px;
+
+}
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
