@@ -1,18 +1,51 @@
 @charset "UTF-8";
 
-html {background-color: lightgray;}
+html {background-color: white;}
 
 body{
-    background-color:white;
-    font-size-adjust:100%;
+
+    font-family: "Century Gothic";
+    
 }
 header, nav, article, aside, footer{
     margin:10px;
-    background-color:lightblue;
+    background-color:white;
+
+}
+
+article{
+    background-color: white;
+}
+
+footer{
+    background-color: #a9a9a9;
+    height: 60px
+        
+        
+}
+
+.navnav{
+    padding-right: 20px;
+    width: 95.2%;
+    background-color: #a9a9a9;
+    height: 22px;
+    margin-top: 0px;
+    position: relative;
+    top: -10px;
+}
+
+.navdofooter{
+    background-color: #dbdbdb;
+    position: absolute;
+    height: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 1346.5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 p{
-	font-family:Arial, Helvetica,sans-serif;
  	font-size: 1.1em;
 	text-align: justify;
 	padding:10px;
@@ -25,13 +58,177 @@ ul,li,a{
         
 }
 
-header {
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.header{
+    position: relative;
+    top: -20px;
+    right: -132px;
+ }
+
+
+header{
     padding: 20px;
+    width:  50%;
+    height: 49px;
+   
+}
+
+
+article{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+    width: 93.7%;
+    
+}
+.pique{
+    position:relative;
+    top: -50px;
+    right: -40px;
+    
+    }
+
+
+  P.nossacasa {
+    float:left;
+    max-width:500px;
+    margin-left:10px;
+}
+  
+
+P.tudoincluso{
+     float:left;
+    max-width:500px;
+    margin-left:10px;
+}
+
+.banq{
+    position: relative
+    float: left;
+    margin-left: 190px;
 
 }
 
+.qualida{
+     float:right;
+    max-width:500px;
+    margin-right:10px;
+    margin-top: 75px;
     
+}
+
+.qualidade{
+   position: relative;
+    right: -755px;
+    margin-top: 50px;
+    top: 70px;
     
+    }
+
+.picina{
+    height: 220px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.feliz{
+    height: 220px;
+    width: 200px;
+    margin-left: 70px;
+    margin-bottom: 50px
+}
+
+.atendi{
+    float:left;
+    max-width:500px;
+    margin-left:10px;
+}
+
+.exec{
+    position: relative;
+    margin-left: 300px;
+    margin-right: 20px;
+    vertical-align:middle;
+}
+
+.audi{
+    float: left;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    vertical-align:middle;
+    
+    }
+
+
+.qtaral{
+    position: relative;
+    right: 350px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.quetal{
+    position: relative;
+    margin-left: 700px;
+    margin-right: 95px;
+    
+}
+
+.tor{
+    float:left;
+    max-width:500px;
+    margin-left:20px;
+    
+}
+
+.cre{
+     position: relative;
+    margin-left: 300px;
+    margin-right: 20px;
+    vertical-align:middle;
+    
+}
+
+.up{
+    position: relative;
+    right: -10px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.comida{
+     float: left;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    vertical-align:middle;
+}
+
+.festa{
+     position: relative;
+    margin-left: 700px;
+    margin-right: 95px;
+}
+
+.maps{
+    float: right;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    vertical-align:middle;
+}
+    
+
+}
+
 
 
 
